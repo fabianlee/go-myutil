@@ -3,6 +3,6 @@
 package myutil
 
 func GetBranch() string {
-  return "master"
+  return "mybranch1"
 }
 
